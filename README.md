@@ -13,8 +13,8 @@ Website Link : https://portfolio-website-link.netlify.app/
 
 If above link not found please click on the link below
 
-https:///D:/Java%20Script/Code_Case_Internship/Portfolio/index.html#skills
-<!-- file:///D:/Java%20Script/Code_Case_Internship/Portfolio/index.html -->
+<!-- https:///D:/Java%20Script/Code_Case_Internship/Portfolio/index.html#skills -->
+file:///D:/Java%20Script/Code_Case_Internship/Portfolio/index.html
 # Task 2 : TodoList
 
 Website Link : https://todoapp1999.netlify.app/
